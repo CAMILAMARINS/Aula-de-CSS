@@ -1,0 +1,21 @@
+h1{
+    color:bisque;
+}
+
+h2{
+    margin: 0px;
+}
+
+#teste{
+    width: 400px;
+    border: solid lightgrey 1px;
+    padding: 30px;
+    margin: 30px;
+}
+
+.time{
+    width: 80%; 
+    border: solid lightgrey 1px;
+    padding: 30px;
+    margin: 30px;
+}
